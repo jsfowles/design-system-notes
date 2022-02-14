@@ -1,13 +1,4 @@
-# system-design-react-code-examples
-A curation of code examples and in depth technical implementation approaches to solve the common frontend system design issues in React.
 
----
-### Target Audience 
-1) advanced beginner/intermediate developers wishing to get better technical understanding 
-2) developers exploring how to do handle technical things in their own projects.
-3) for my own reference as I need something like this for my own learning.
-
----
 ### Philosophy
 
 The philosophy behind this endeavour is to document as much as possible a practical guide as possible someone looking to level-up fast/ implement things. 
