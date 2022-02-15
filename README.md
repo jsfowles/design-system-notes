@@ -1,8 +1,3 @@
-
-### Philosophy
-
-The philosophy behind this endeavour is to document as much as possible a practical guide as possible someone looking to level-up fast/ implement things. 
-
 > “Talk is cheap. Show me the code.”
 > — Linus Torvalds
 
