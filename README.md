@@ -1,8 +1,3 @@
-> “Talk is cheap. Show me the code.”
-> — Linus Torvalds
-
----
-
 - [Engineering Design](#engineering-design)
 - [High Level Design](#high-level-design)
 - [Low level Design](#low-level-design)
