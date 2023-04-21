@@ -1,3 +1,7 @@
+---
+
+### Table of Contents
+
 - [Engineering Design](#engineering-design)
 - [High Level Design](#high-level-design)
 - [Low level Design](#low-level-design)
@@ -5,7 +9,7 @@
 
 ---
 
-### Architecture Deep dive
+### Architecture Deep Dive
 
 - [Rebuilding our tech stack for the new Facebook.com](https://engineering.fb.com/2020/05/08/web/facebook-redesign/)
 - [Front-End Performance Optimization with Accelerated Compositing Part 1 ](https://www.alibabacloud.com/blog/front-end-performance-optimization-with-accelerated-compositing-part-1_594194)
