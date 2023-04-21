@@ -1,5 +1,3 @@
----
-
 ### Table of Contents
 
 - [Engineering Design](#engineering-design)
