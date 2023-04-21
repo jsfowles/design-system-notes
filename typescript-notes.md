@@ -80,9 +80,6 @@ This was a surprise for me. As far as Build Tools go, Typescript has better sati
 
 _**Figure 6 - Gantt? Chart of build tool rankings**_
 
-### Proof of Concept
-
-A [Proof of Concept](https://gitlab.mx.com/mx/pulse/-/merge_requests/1802) has been create by Bill Bridegroom for the Pulse team. 
 
 ### State of Storybook
 
