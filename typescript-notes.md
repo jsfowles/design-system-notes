@@ -1,5 +1,3 @@
-## Kyper Design System
-
 #### The Typescript Ecosystem and the Future of Design Systems
 
 ### Abstract
