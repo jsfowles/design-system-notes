@@ -1,6 +1,7 @@
 - [Engineering Design](#engineering-design)
 - [High Level Design](#high-level-design)
 - [Low level Design](#low-level-design)
+- [High Level Details](#high-level-design-details)
 
 ---
 
@@ -82,7 +83,7 @@
 
 ---
 
-### High Level Design details
+### High Level Design Details
 
 <br>
 
