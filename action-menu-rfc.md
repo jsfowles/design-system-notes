@@ -40,7 +40,7 @@ Here is a basic example using TailwindCSS for styles:
     </ActionMenu.Overlay>
 </ActionMenu>
 ```
-## Corner Cases
+## Edge Cases
 Here are a few potential corner-cases for this ActionMenu component:
 
 1. **Empty ActionMenu**: What happens when an ActionMenu is rendered without any ActionList.Items? Your component should handle this case gracefully, possibly rendering an empty state message or not rendering the ActionMenu at all.
