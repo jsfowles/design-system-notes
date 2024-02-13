@@ -1,4 +1,4 @@
-#### The Typescript Ecosystem and the Future of Design Systems
+#### The Typescript Ecosystem and the Future of Adoption
 
 ### Abstract
 JavaScript was initially a scripting language for creating small interactive web pages. However, massive applications, both web pages and server applications, are increasingly being developed using JavaScript. The dynamic nature of the JavaScript language makes it hard to create proper tooling with features such as auto-completion and code-navigation. TypeScript is a JavaScript superset that adds, on top of JavaScript, an optional static type system, which facilitates features such as auto-completion, code navigation, and detection of type errors. 
@@ -80,19 +80,3 @@ This was a surprise for me. As far as Build Tools go, Typescript has better sati
 <img width="393" alt="CleanShot 2022-02-16 at 09 31 04@2x" src="https://user-images.githubusercontent.com/17182194/154311324-1384f8b8-0490-4509-90e0-9fbb132b6da9.png">
 
 _**Figure 6 - Gantt? Chart of build tool rankings**_
-
-
-### State of Storybook
-
-In previous years, Storybook built new workflows such as documenting and testing components, while also solving multi-framework compatibility. Thanks to these explorations, they now understand what’s needed for a solid UI developer experience.
-
-*But as Storybook expands, it’s trickier to maintain. This is especially painful since frontend frameworks and build tools are rapidly evolving.*
-
-Storybook rearchitected its core performance, in partnership with Webpack and Shopify UX engineering. 
-
-In 2022, they've prioritized refining Storybook’s existing features. They now have full coverage of the primary workflows of develop, test, and document. That means Storybook can continue innovating under the hood. Here’s the roadmap:
-
- - Speed: Webpack 5 build optimizations
- - Weight: Modern ESM browser target to slim and simplify distribution
- - Dependency conflicts: Pre-bundle dependencies to reduce install size and conflicts
- - Reliability: Define a tight boundary around Storybook’s core and test more rigorously
