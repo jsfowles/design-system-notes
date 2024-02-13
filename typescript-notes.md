@@ -70,6 +70,7 @@ _**Figure 4 - Bar chart of technology usage cardinality**_
 Again, we see a very high ranking of Satisfaction, interest, usage, and awareness ratio.
 
 <img width="392" alt="CleanShot 2022-02-16 at 09 30 32@2x" src="https://user-images.githubusercontent.com/17182194/154311270-5c645f04-b57c-4309-b987-13d424fb062f.png">
+
 _**Figure 5 - Gantt? Chart of javascript "flavor" rankings**_
 
 ---
