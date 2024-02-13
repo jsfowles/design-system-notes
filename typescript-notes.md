@@ -70,7 +70,7 @@ _**Figure 4 - Bar chart of technology usage cardinality**_
 Again, we see a very high ranking of Satisfaction, interest, usage, and awareness ratio.
 
 <img width="392" alt="CleanShot 2022-02-16 at 09 30 32@2x" src="https://user-images.githubusercontent.com/17182194/154311270-5c645f04-b57c-4309-b987-13d424fb062f.png">
-_**Figure 5 - Gantt? Chart of javascript "flavor" rankings*=**_
+_**Figure 5 - Gantt? Chart of javascript "flavor" rankings**_
 
 ---
 
@@ -86,8 +86,6 @@ _**Figure 6 - Gantt? Chart of build tool rankings**_
 In previous years, Storybook built new workflows such as documenting and testing components, while also solving multi-framework compatibility. Thanks to these explorations, they now understand what’s needed for a solid UI developer experience.
 
 *But as Storybook expands, it’s trickier to maintain. This is especially painful since frontend frameworks and build tools are rapidly evolving.*
-
-In 2021 we re-architected Storybook’s core for performance, in partnership with Webpack and Shopify UX engineering. Now that we have a better handle on performance, we’re setting our sights on improving stability.
 
 Storybook rearchitected its core performance, in partnership with Webpack and Shopify UX engineering. 
 
